@@ -2521,3 +2521,54 @@
 "Xeon Max 9468" "48C96T" "2.1GHz"
 "Xeon Max 9470" "52C104T" "2.0GHz"
 "Xeon Max 9480" "56C112T" "1.9GHz"
+“Xeon MP 2.83” “1C1T” “2.83GHz”
+“Xeon MP 2.83” “1C1T” “2.83GHz”
+“Xeon MP 3.00” “1C1T” “3.0GHz”
+“Xeon MP 3.00” “1C1T” “3.0GHz”
+“Xeon MP 3.16” “1C1T” “3.16GHz”
+“Xeon MP 3.16” “1C1T” “3.16GHz”
+“Xeon MP 3.16” “1C1T” “3.16GHz”
+“Xeon MP 3.33” “1C1T” “3.33GHz”
+“Xeon MP 3.33” “1C1T” “3.33GHz”
+“Xeon MP 3.33” “1C1T” “3.33GHz”
+“Xeon MP 3.50” “1C1T” “3.5GHz”
+“Xeon MP 3.66” “1C1T” “3.66GHz”
+“Xeon MP 7020 Dual-Core” “2C2T” “2.66GHz”
+“Xeon MP 7030 Dual-Core” “2C2T” “2.83GHz”
+“Xeon MP 7040 Dual-Core” “2C2T” “3.0GHz”
+“Xeon MP 7041 Dual-Core” “2C2T” “3.0GHz”
+"Xeon X7350" "6C6T" "2.93GHz"
+"Xeon E7420" "4C4T" "2.13GHz"
+"Xeon E7430" "4C4T" "2.13GHz"
+"Xeon E7440" "4C4T" "2.4GHz"
+"Xeon L7445" "4C4T" "2.13GHz"
+"Xeon L7450" "6C6T" "2.13GHz"
+"Xeon X7450" "6C6T" "2.4GHz"
+"Xeon X7458" "6C6T" "2.4GHz"
+"Xeon X7460" "6C6T" "2.66GHz"
+"Aubrey IsLe" "32C128T" "1.2GHz"
+"Xeon Phi 3110X" "61C244T" "1.05GHz"
+"Xeon Phi 5110P" "60C240T" "1.05GHz"
+"Xeon Phi 7110P" "61C244T" "1.25GHz"
+"Xeon Phi 7110X" "61C244T" "1.25GHz"
+"Xeon Phi SE10P" "61C244T" "1.1GHz"
+"Xeon Phi SE10X" "61C244T" "1.1GHz"
+"Xeon Phi 3120A" "57C228T" "1.1GHz"
+"Xeon Phi 3120P" "57C228T" "1.1GHz"
+"Xeon Phi 31S1P" "57C228T" "1.1GHz"
+"Xeon Phi 5120D" "60C240T" "1.05GHz"
+"Xeon Phi 7120P" "61C244T" "1.23GHz"
+"Xeon Phi 7120X" "61C244T" "1.23GHz"
+"Xeon Phi 7120A" "61C244T" "1.23GHz"
+"Xeon Phi 7120D" "61C244T" "1.23GHz"
+"Xeon Phi 7210" "64C256T" "1.3GHz"
+"Xeon Phi 7210F" "64C256T" "1.3GHz"
+"Xeon Phi 7230" "64C256T" "1.3GHz"
+"Xeon Phi 7230F" "64C256T" "1.3GHz"
+"Xeon Phi 7250" "68C272T" "1.4GHz"
+"Xeon Phi 7250F" "68C272T" "1.4GHz"
+"Xeon Phi 7290" "72C288T" "1.5GHz"
+"Xeon Phi 7290F" "72C288T" "1.5GHz"
+"Xeon Phi 7235" "64C256T" "1.3GHz"
+"Xeon Phi 7285" "68C272T" "1.3GHz"
+"Xeon Phi 7295" "72C288T" "1.5GHz"
