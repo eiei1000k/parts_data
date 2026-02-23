@@ -381,3 +381,8 @@
 "Athlon II X4 645" "4C4T" "3.1GHz"
 "Athlon II X4 651" "4C4T" "3.0GHz"
 "Athlon II X4 651K" "4C4T" "3.0GHz"
+"Athlon 500" "1C1T" "0.5GHz"
+"Athlon 550" "1C1T" "0.55GHz"
+"Athlon 600" "1C1T" "0.6GHz"
+"Athlon 650" "1C1T" "0.65GHz"
+"Athlon 700" "1C1T" "0.7GHz"
