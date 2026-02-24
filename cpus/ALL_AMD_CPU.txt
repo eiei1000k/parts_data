@@ -416,3 +416,4 @@
 "Athlon 850" "1C1T" "0.85GHz"
 "Athlon 900" "1C1T" "0.9GHz"
 "Athlon 950" "1C1T" "0.95GHz"
+"Athlon MP 2600+" "1C1T" "2.0GHz"
