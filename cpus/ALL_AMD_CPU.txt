@@ -514,3 +514,7 @@
 "Mobile Duron 700" "1C1T" "0.7GHz"
 "Duron 1300" "1C1T" "1.3GHz"
 "Mobile Duron LV 1000" "1C1T" "1.0GHz"
+"E-240" "1C1T" "1.5GHz"
+"E-300" "2C2T" "1.3GHz"
+"E-350" "2C2T" "1.6GHz"
+"E-450" "2C2T" "1.65GHz"
