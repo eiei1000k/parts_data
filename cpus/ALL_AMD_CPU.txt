@@ -493,3 +493,7 @@
 "Athlon XP-M 2200+" "1C1T" "1.66GHz"
 "Athlon XP-M 2800+" "1C1T" "2.1GHz"
 "Athlon XP-M 2800+(72W)" "1C1T" "2.1GHz"
+"C-30" "1C1T" "1.2GHz"
+"C-50" "2C2T" "1.0GHz"
+"C-60" "2C2T" "1.0GHz"
+"C-70" "2C2T" "1.0GHz"
