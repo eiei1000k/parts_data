@@ -710,3 +710,5 @@
 "EPYC Embedded 3201" "8C8T" "1.5GHz"
 "EPYC Embedded 3151" "4C8T" "2.7GHz"
 "EPYC Embedded 3101" "4C4T" "2.1GHz"
+"FirePro A320" "4C4T" "3.8GHz"
+"FirePro A300" "4C4T" "3.4GHz"
